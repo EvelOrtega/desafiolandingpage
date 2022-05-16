@@ -319,3 +319,10 @@ button:hover {
 .featurette img {
   max-height: 400px;
 }
+
+@media (max-width: 1000px) {
+  .frosted-menu {
+    background-color: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(5px);
+  }
+}
