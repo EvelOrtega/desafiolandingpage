@@ -272,7 +272,7 @@ button:hover {
   width: 100%;
   z-index: 11;
   position: fixed;
-  height: 70px;
+  height: 60px;
 }
 .z-index-front-top {
   z-index: 10;
